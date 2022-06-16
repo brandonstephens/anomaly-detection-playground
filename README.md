@@ -1,6 +1,6 @@
 # Anomaly Detection Playground
 
-A place to play with the concepts found in [this lovely article](https://hakibenita.com/sql-anomaly-detection).
+A place to play with the concepts found in [this lovely article](https://hakibenita.com/sql-anomaly-detection) by Haki Benita.
 
 This comes with a big bunch of [data from Google](https://observablehq.com/@observablehq/google-merchandise-sales-data).
 
